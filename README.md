@@ -17,8 +17,8 @@ I'm Artyom Taratin, currently pursuing a bachelor's degree majoring in Applied M
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-%23019cfb.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ff8632.svg?style=for-the-badge&logo=alwaysdata&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-%23019cfb.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Other libs](https://img.shields.io/badge/Other_libs-%235050D0.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
