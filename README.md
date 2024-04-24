@@ -11,4 +11,4 @@ I'm Artyom Taratin, currently pursuing a bachelor's degree majoring in applied m
 
 ## 📫 Reach me on
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kekwak) [![Telegram](https://img.shields.io/badge/Telegram-%23121011.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kekwak)
+[![Telegram](https://img.shields.io/badge/Telegram-%23121011.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kekwak) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kekwak)
