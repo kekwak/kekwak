@@ -5,7 +5,6 @@
 I'm Artyom Taratin, currently pursuing a bachelor's degree majoring in Applied Mathematics and Machine Learning from The Financial University at Moscow.
 
 ## 🔧 Technologies & Tools
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23e46d2d.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
