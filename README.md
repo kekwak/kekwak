@@ -28,7 +28,7 @@ I'm Artyom Taratin, currently pursuing a bachelor's degree majoring in Applied M
 
 ![Windows](https://img.shields.io/badge/windows-%23000000.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac_OS-%23000000.svg?style=for-the-badge&logo=macos&logoColor=white)
-<!--- ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23121011.svg?style=for-the-badge&logo=ubuntu&logoColor=white) -->
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23121011.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📫 Reach me on
 
