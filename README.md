@@ -21,7 +21,7 @@ I'm Artyom Taratin, currently pursuing a bachelor's degree majoring in Applied M
 ![Other libs](https://img.shields.io/badge/Other_libs-%235050D0.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-FCC624.svg?style=for-the-badge&logo=git&logoColor=white)
+![git](https://img.shields.io/badge/git-%236f8500.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-%233772ff.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-%2314aec7.svg?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%230074c2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
